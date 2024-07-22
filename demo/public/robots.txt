@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /
+Allow: /signin
+Allow: /signup
+Sitemap: http://localhost:8080/sitemap.xml
